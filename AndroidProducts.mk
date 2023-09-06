@@ -5,9 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_moonstone.mk \
-    $(LOCAL_DIR)/twrp_sunstone.mk
+    $(LOCAL_DIR)/twrp_stone.mk \
 
 COMMON_LUNCH_CHOICES := \
-    twrp_moonstone-eng \
-    twrp_sunstone-eng
+    twrp_stone-eng \
